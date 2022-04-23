@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/27279740/164895415-387f094a-d216-4045-9204-2dad572a961f.png)
+
+
 <h2>Hey 👋, I'm <a href="https://krishnakiriti04.github.io/myportfolio/">Krishna Kireeti</a></h2>
 
 <p>I'm currently working as a software engineer at <strong><a href="https://www.lntinfotech.com/">L&T Infotech</a></strong> and formerly at <strong><a href="https://www.tcs.com/">TCS</a></strong> based in Hyderabad. I'm working on some side projects and also learning DSA along with system design</p>
