@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/27279740/164895415-387f094a-d216-4045-9204-2dad572a961f.png)
-
+![image](https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png)
 
 <h2>Hey 👋, I'm <a href="https://krishnakiriti04.github.io/myportfolio/">Krishna Kireeti</a></h2>
 
