@@ -4,7 +4,7 @@
 
 <p>I'm currently working as a software engineer at <strong><a href="https://www.lntinfotech.com/">L&T Infotech</a></strong> and formerly at <strong><a href="https://www.tcs.com/">TCS</a></strong> based in Hyderabad. I'm working on some side projects and also learning DSA along with system design</p>
 
-<p><a href="https://krishnakiriti04.github.io/myportfolio/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/krishna-kireeti-mamidi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>   <a href="https://twitter.com/krishnakiriti04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a></p>
+<p><a href="https://www.krishnakireetimamidi.com/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/krishna-kireeti-mamidi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>   <a href="https://twitter.com/krishnakiriti04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a></p>
 
 <!--
 **krishnakiriti04/krishnakiriti04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -34,9 +34,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krishnakiriti04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakiriti04&layout=compact)](https://github.com/krishnakiriti04/github-readme-stats) -->
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=krishnakiriti04.krishnakiriti04" alt="visitors"></p>
