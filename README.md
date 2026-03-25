@@ -2,7 +2,7 @@
 
 <h2>Hey 👋, I'm <a href="https://krishnakiriti04.github.io/myportfolio/">Krishna Kireeti</a></h2>
 
-<p>I'm currently working as a software engineer at <strong><a href="https://www.lntinfotech.com/">L&T Infotech</a></strong> and formerly at <strong><a href="https://www.tcs.com/">TCS</a></strong> based in Hyderabad. I'm working on some side projects and also learning DSA along with system design</p>
+<p>I'm currently working as a Lead software engineer at <strong><a href="https://www.techmojo.com/">Techmojo</a></strong> and formerly worked at <strong>L&T Infotech</strong>, <strong>TCS</strong> based in Hyderabad. I'm working on some side projects and also learning DSA along with system design</p>
 
 <p><a href="https://www.krishnakireetimamidi.com/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/krishna-kireeti-mamidi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>   <a href="https://twitter.com/krishnakiriti04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a></p>
 
@@ -31,9 +31,3 @@
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="50" height="50" />
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishnakiriti04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakiriti04&layout=compact)](https://github.com/krishnakiriti04/github-readme-stats) -->
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=krishnakiriti04.krishnakiriti04" alt="visitors"></p>
